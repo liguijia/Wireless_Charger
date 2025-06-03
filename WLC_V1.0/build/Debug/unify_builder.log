@@ -1,0 +1,179 @@
+[2025-05-20 00:49:36]	[info] incremental build: 49 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\Core\Src\adc.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\dma.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\fdcan.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\fmac.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\gpio.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\hrtim.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\i2c.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\main.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\stm32g4xx_hal_msp.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\stm32g4xx_it.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\syscalls.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\sysmem.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\system_stm32g4xx.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\tim.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Src\usart.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Core\Startup\startup_stm32g474rbtx.s': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_adc.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_adc_ex.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_cortex.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_dma.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_dma_ex.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_exti.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_fdcan.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash_ex.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash_ramfunc.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_fmac.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_gpio.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_hrtim.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_i2c.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_i2c_ex.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_pwr.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_pwr_ex.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_rcc.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_rcc_ex.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_tim.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_tim_ex.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_uart.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_uart_ex.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_ll_adc.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\USER\Src\OLED.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\USER\Src\analog_signal.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\USER\Src\bsp_can.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\USER\Src\bsp_hrtim.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\USER\Src\buzzer.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\USER\Src\incremental_pid.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\USER\Src\mean_filter.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\USER\Src\wlc_ctrl.c': object (.o) file not exist
+
+[2025-05-20 00:49:39]	[done]
+	build successfully !
+
+[2025-05-20 00:49:50]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\USER\Src\wlc_ctrl.c': source file has been changed.
+
+[2025-05-20 00:49:51]	[done]
+	build successfully !
+
+[2025-05-20 00:50:10]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\USER\Src\wlc_ctrl.c': source file has been changed.
+
+[2025-05-20 00:50:10]	[done]
+	build successfully !
+
+[2025-05-20 00:50:38]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\USER\Src\wlc_ctrl.c': source file has been changed.
+
+[2025-05-20 00:50:39]	[done]
+	build successfully !
+
+[2025-05-20 00:54:45]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\USER\Src\wlc_ctrl.c': source file has been changed.
+
+[2025-05-20 00:54:45]	[done]
+	build successfully !
+
+[2025-05-20 00:55:22]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\Core\Src\main.c': dependence 'd:\Codes\WLC_V1.0\USER\Inc\wlc_ctrl.h' has been changed.
+'d:\Codes\WLC_V1.0\USER\Src\wlc_ctrl.c': dependence 'd:\Codes\WLC_V1.0\USER\Inc\wlc_ctrl.h' has been changed.
+
+[2025-05-20 00:55:23]	[done]
+	build successfully !
+
+[2025-05-21 23:34:42]	[info] incremental build: 3 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\Core\Src\main.c': dependence 'd:\Codes\WLC_V1.0\USER\Inc\wlc_ctrl.h' has been changed.
+'d:\Codes\WLC_V1.0\USER\Src\analog_signal.c': source file has been changed.
+'d:\Codes\WLC_V1.0\USER\Src\wlc_ctrl.c': source file has been changed.
+
+[2025-05-21 23:34:44]	[done]
+	build successfully !
+
+[2025-05-21 23:37:53]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\USER\Src\analog_signal.c': source file has been changed.
+
+[2025-05-21 23:37:53]	[done]
+	build successfully !
+
+[2025-05-21 23:39:55]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\USER\Src\analog_signal.c': source file has been changed.
+
+[2025-05-21 23:39:55]	[done]
+	build successfully !
+
+[2025-05-21 23:40:24]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\USER\Src\analog_signal.c': source file has been changed.
+
+[2025-05-21 23:40:24]	[done]
+	build successfully !
+
+[2025-05-21 23:57:04]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\USER\Src\analog_signal.c': source file has been changed.
+
+[2025-05-21 23:57:04]	[done]
+	build successfully !
+
+[2025-05-21 23:57:54]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\USER\Src\analog_signal.c': source file has been changed.
+
+[2025-05-21 23:57:55]	[done]
+	build successfully !
+
+[2025-05-22 00:01:26]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\USER\Src\analog_signal.c': source file has been changed.
+
+[2025-05-22 00:01:26]	[done]
+	build successfully !
+
+[2025-05-27 01:25:57]	[info] incremental build: 3 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\USER\Src\analog_signal.c': source file has been changed.
+'d:\Codes\WLC_V1.0\USER\Src\bsp_rfid.c': object (.o) file not exist
+'d:\Codes\WLC_V1.0\USER\Src\bsp_rs485.c': object (.o) file not exist
+
+[2025-05-27 01:25:59]	[done]
+	build successfully !
+
+[2025-05-27 08:10:51]	[info] incremental build: 7 source files changed
+These source files will be recompiled
+---
+'d:\Codes\WLC_V1.0\Core\Src\hrtim.c': source file has been changed.
+'d:\Codes\WLC_V1.0\Core\Src\main.c': source file has been changed.
+'d:\Codes\WLC_V1.0\Core\Src\stm32g4xx_it.c': source file has been changed.
+'d:\Codes\WLC_V1.0\Core\Src\tim.c': source file has been changed.
+'d:\Codes\WLC_V1.0\USER\Src\bsp_rfid.c': source file has been changed.
+'d:\Codes\WLC_V1.0\USER\Src\buzzer.c': dependence 'd:\Codes\WLC_V1.0\Core\Inc\tim.h' has been changed.
+'d:\Codes\WLC_V1.0\USER\Src\wlc_ctrl.c': source file has been changed.
+
+[2025-05-27 08:10:53]	[done]
+	build successfully !
+

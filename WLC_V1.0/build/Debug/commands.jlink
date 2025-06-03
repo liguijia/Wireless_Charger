@@ -1,0 +1,6 @@
+r
+halt
+loadfile "d:\Codes\WLC_V1.0\build\Debug\WLC_v1.0.hex"
+r
+go
+exit
